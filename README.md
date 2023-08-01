@@ -16,7 +16,7 @@
 * AuthenticationToken
 * User
 * Order
-*FoodItem
+* FoodItem
 ### Repository
 * IAdminRepository
 * ITokenRepository
